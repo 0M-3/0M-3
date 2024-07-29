@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0M-3
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Engineering
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about Snowflake, dbt, airflow and dagster.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -
 
