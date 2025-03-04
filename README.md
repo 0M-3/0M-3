@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0m-3&label=Profile%20views&color=0e75b6&style=flat" alt="0m-3" /> </p>
 
-- 🔭 I’m currently working on [Interview-AI](https://github.com/0M-3/Interview-AI)
+- 🔭 I’m currently working on [Recreating SQLite for GPUs](https://github.com/0M-3/C_db_scripts)
 
 - 🌱 I’m currently learning **Next.js, Typescript, C**
 
