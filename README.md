@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Interview-AI](https://github.com/0M-3/Interview-AI)
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning **Next.js, Typescript, C**
 
 - 💬 Ask me about **Python, SQL, Machine Learning and Data Engineering**
 
