@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **Python, SQL, Machine Learning and Data Engineering**
 
-- 📫 How to reach me **oacharya0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
